@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samreen
-- 👀 I’m interested in Data Science.
+- 👀 Data Science Enthusiast.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects related to the same.
 - 📫 How to reach me samreenfathima070@gmail.com
