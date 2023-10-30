@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Samreen
 - 👀 I'm a Data Science Enthusiast.
 - 🌱 I have knowledge in tools like Python, SQL, Tableau, Power BI.
-- 💞️ I’m currently looking for Data Analyst jobs.
 - 📫 How to reach me: samreenfathima070@gmail.com
